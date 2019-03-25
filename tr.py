@@ -1,1 +1,1 @@
-tr test
+tr test master.py
